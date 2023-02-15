@@ -7,7 +7,10 @@ function Header() {
       <Link href='/' className='px-2 py-1 bg-white text-blue-500 rounded-lg'>
         Home
       </Link>
-      <Link href='/todos' className='mx-2 px-2 py-1 bg-white text-blue-500 rounded-lg'>
+      <Link href='/search' className='mx-2 px-2 py-1 bg-white text-blue-500 rounded-lg'>
+        Search
+      </Link>
+      <Link href='/todos' className='px-2 py-1 bg-white text-blue-500 rounded-lg'>
         Todos
       </Link>
     </header>
