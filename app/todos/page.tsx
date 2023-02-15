@@ -1,13 +1,8 @@
-// import TodoList from './TodoList'
-
-import TodoList from './TodoList'
-
 function Todo() {
   return (
-    <>
-      {/* @ts-ignore */}
-      <TodoList />
-    </>
+    <div>
+      <h1>This is where todo will be listed...</h1>
+    </div>
   )
 }
 
