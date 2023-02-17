@@ -1,4 +1,5 @@
 # Next todo list app
+[Video Tutorial](https://www.youtube.com/watch?v=6aP9nyTcd44&ab_channel=SonnySangha)
 
 - Request data
 - revalidate cache
